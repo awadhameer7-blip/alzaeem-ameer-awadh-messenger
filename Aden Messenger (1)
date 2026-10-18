@@ -1,0 +1,52 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8000/
+Subject: Aden Messenger
+Date: Fri, 16 Oct 2026 01:45:09 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bxjVkJy86QfFO2M0eEJg2MtAimdlL0sOFPJmqN7Cw2----"
+
+
+------MultipartBoundary--bxjVkJy86QfFO2M0eEJg2MtAimdlL0sOFPJmqN7Cw2----
+Content-Type: text/html
+Content-ID: <frame-C12F122BDBCCA54E62E906B5F6232B11@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8000/
+
+<!DOCTYPE html><html dir="rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-5f7e920c-676a-429c-b8d7-3b205dd3944c@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aden Messenger</title>
+
+</head>
+<body>
+<div id="head">Aden Messenger - باسمي</div>
+<div id="box"></div>
+<div id="bar"><input id="m" placeholder="اكتب رسالة..."><button>ارسال</button></div>
+
+
+
+
+</body></html>
+------MultipartBoundary--bxjVkJy86QfFO2M0eEJg2MtAimdlL0sOFPJmqN7Cw2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-5f7e920c-676a-429c-b8d7-3b205dd3944c@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: sans-serif; background: rgb(17, 27, 33); color: rgb(255, 255, 255); }
+
+#head { background: rgb(32, 44, 51); padding: 15px; font-weight: bold; }
+
+#box { height: 75vh; overflow: auto; padding: 10px; }
+
+.msg { background: rgb(0, 92, 75); padding: 8px 12px; border-radius: 8px; margin: 6px 0px; float: right; clear: both; max-width: 80%; }
+
+#bar { position: fixed; bottom: 0px; width: 100%; display: flex; padding: 10px; background: rgb(32, 44, 51); box-sizing: border-box; }
+
+input { flex: 1 1 0%; padding: 12px; border-radius: 20px; border: 0px; }
+
+button { margin-right: 10px; padding: 12px 20px; background: rgb(0, 168, 132); color: rgb(255, 255, 255); border: 0px; border-radius: 20px; }
+------MultipartBoundary--bxjVkJy86QfFO2M0eEJg2MtAimdlL0sOFPJmqN7Cw2------
